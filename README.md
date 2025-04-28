@@ -7,4 +7,5 @@ This project will teach you how to analyze the music playlist database. You can 
 * PgAdmin4
   
 Schema- Music Store Database 
-![MusicDatabaseSchema](
+![MusicDatabaseSchema](https://github.com/Sandeep11012000/SQL_Data_Analysis/blob/main/schema_diagram.png)
+
