@@ -6,3 +6,5 @@ This project will teach you how to analyze the music playlist database. You can 
 * Postgre SQL
 * PgAdmin4
   
+Schema- Music Store Database 
+![MusicDatabaseSchema](
